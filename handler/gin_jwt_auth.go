@@ -3,9 +3,9 @@ package handler
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v4"
+	"github.com/shijiu/base-go/comm/jwtsj"
 	"go.uber.org/zap"
 	"net/http"
-	"shijiu-base-go/comm/jwtsj"
 )
 
 func JwtAuthHandlerFunc() gin.HandlerFunc {

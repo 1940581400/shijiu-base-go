@@ -1,11 +1,11 @@
 package zapsj
 
 import (
+	"github.com/shijiu/base-go/config"
+	"github.com/shijiu/base-go/constant/zero"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"log"
-	"shijiu-base-go/config"
-	"shijiu-base-go/constant/zero"
 	"strconv"
 	"strings"
 )

@@ -4,8 +4,8 @@ import (
 	"crypto/sha512"
 	"fmt"
 	"github.com/anaskhan96/go-password-encoder"
-	"shijiu-base-go/constant/pwdconst"
-	"shijiu-base-go/constant/zero"
+	"github.com/shijiu/base-go/constant/pwdconst"
+	"github.com/shijiu/base-go/constant/zero"
 	"strings"
 )
 

@@ -1,8 +1,8 @@
 package jwtsj
 
 import (
-	"shijiu-base-go/comm/uuidsj"
-	"shijiu-base-go/config"
+	"github.com/shijiu/base-go/comm/uuidsj"
+	"github.com/shijiu/base-go/config"
 	"time"
 
 	"github.com/golang-jwt/jwt/v4"
